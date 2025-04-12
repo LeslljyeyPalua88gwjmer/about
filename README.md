@@ -3,3 +3,4 @@ Plan and manage events with ease using a collaborative platform.
 Features: Calendar integration, guest management, and reminders.
 Install: Clone with  and run .
 Start: Run  and access at .
+Requirements: Node.js 16.0+, modern browser (Chrome, Safari).
