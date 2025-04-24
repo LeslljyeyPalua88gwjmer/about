@@ -9,3 +9,4 @@ Contribute: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 License: MIT License, see [LICENSE](LICENSE) for details.
 Testing: Run  to execute unit tests.
 FAQ: Calendar sync details in [calendar.md](docs/calendar.md).
+Community: Join us on [Slack](https://eventpulse.slack.com).
